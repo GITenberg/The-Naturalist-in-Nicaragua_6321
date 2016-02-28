@@ -1,0 +1,24 @@
+_repo: The-Naturalist-in-Nicaragua_6321
+creator:
+  author:
+    agent_name: Belt, Thomas
+    birthdate: 1832
+    deathdate: 1878
+    gutenberg_agent_id: '1994'
+    url: http://www.gutenberg.org/2009/agents/1994
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Belt
+description: ''
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6321'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Nicaragua -- Description and travel'
+- !lcsh 'Natural history -- Nicaragua'
+title: The Naturalist in Nicaragua
+url: http://www.gutenberg.org/ebooks/6321
